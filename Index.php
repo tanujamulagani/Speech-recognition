@@ -1,4 +1,4 @@
 <?php
-include_once("Index.html");
+include_once("new.html");
 
 ?>
