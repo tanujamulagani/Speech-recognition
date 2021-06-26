@@ -1,0 +1,17 @@
+body
+{
+   background:url('final.jpeg');
+   background-size: cover;
+   background-repeat:no-repeat;
+   box-sizing: border-box;
+   background-position:center;
+   background-attachment: fixed;
+}
+.intro
+{
+ text-align: center;
+ padding:10px;
+ background-color:rgb(217, 214, 214);
+ margin-top:10px;
+font-size:30px;
+}
